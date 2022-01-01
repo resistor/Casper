@@ -123,7 +123,7 @@ production stylesheet in assets/built/screen.css
     z-index: 10;
     margin: 0 0 0.15em;
     padding: 0;
-    text-shadow: 1px 1px 1px #000000;
+    text-shadow: 1.2px 1.2px 1.2px #2f2f2f;
 }
 
 .site-logo {
@@ -173,7 +173,7 @@ production stylesheet in assets/built/screen.css
 
 .gh-head {
     padding: 1vmin 4vmin;
-    font-size: 1.6rem;
+    font-size: 2.2rem;
     line-height: 1.3em;
     color: #fff;
     background: var(--ghost-accent-color);
@@ -224,7 +224,8 @@ production stylesheet in assets/built/screen.css
 .gh-head-menu {
     display: flex;
     align-items: center;
-    font-weight: 500;
+    font-weight: 700;
+    text-shadow: 1.2px 1.2px 1.2px #2f2f2f;
 }
 
 .gh-head-menu .nav {
@@ -234,7 +235,6 @@ production stylesheet in assets/built/screen.css
     list-style: none;
     margin: 0;
     padding: 0;
-    text-shadow: 1px 1px 1px #000000;
 }
 
 .gh-head-menu .nav li {
@@ -245,7 +245,7 @@ production stylesheet in assets/built/screen.css
 .gh-head-menu .nav a {
     display: inline-block;
     padding: 5px 0;
-    opacity: 0.8
+    opacity: 0.8;
 }
 
 .gh-head-menu .nav a:hover {

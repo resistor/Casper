@@ -127,7 +127,8 @@ production stylesheet in assets/built/screen.css
 }
 
 .site-logo {
-    max-height: 55px;
+    max-height: 220px;
+    filter: drop-shadow(1.2px 1.2px 1.2px #2f2f2f);
 }
 
 .site-header-content p {
@@ -214,7 +215,8 @@ production stylesheet in assets/built/screen.css
 }
 
 .gh-head-logo img {
-    max-height: 26px;
+    max-height: 78px;
+    filter: drop-shadow(1.2px 1.2px 1.2px #2f2f2f);
 }
 
 
